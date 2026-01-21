@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hello my name is Reya, and I am currently working towards finishing my ACMP Degree.
+- 👋 Hello my name is Reya
 - 🔭 I’m currently working on finishing my major in ACMP.
 - 🌱 I’m currently taking a Devops & Platforms Engineering class.
 - 👯 I’m looking to collaborating on projects.
